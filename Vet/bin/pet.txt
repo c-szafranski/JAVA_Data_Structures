@@ -1,0 +1,5 @@
+DOG	Sam	Jeff	32.1	1/15/17	true
+DOG	Spot	John	42.6	10/3/16	true
+BIRD	Polly	Dick	0.06	false
+DOG	Spot	Dick	63.4	7/7/14	false
+BIRD	Opus	Berkeley	10.3	true

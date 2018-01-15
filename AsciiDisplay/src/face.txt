@@ -1,0 +1,13 @@
+P e1 10 5
+P e2 19 5
+P e3 11 5
+P e4 18 5
+R mouth 10 10 10 2
+S nose 14 7 2
+P p3 9 9
+P p4 20 9
+D
+X this is a bad command
+M p3 9 12
+M p4 20 12
+D
